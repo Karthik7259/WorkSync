@@ -1,0 +1,7 @@
+.flex-container{
+    display: grid;                    /* Use Flexbox */
+grid-template-columns: 1fr auto; /* Space between items */
+align-items: end;              /* Vertically center items */
+justify-content: space-between;
+padding: 20px; 
+}
